@@ -1,0 +1,10 @@
+joblib
+nltk
+textblob
+numpy
+pandas
+scikit-learn
+gensim
+spotipy
+matplotlib
+seaborn
