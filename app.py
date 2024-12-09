@@ -11,6 +11,8 @@ from nltk.corpus import stopwords
 from textblob import TextBlob
 import re
 
+nltk.download('stopwords') 
+
 # Streamlit 应用
 st.title("Podcast Episode Recommendation")
 
