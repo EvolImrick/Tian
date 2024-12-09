@@ -1,6 +1,6 @@
 streamlit
 spotipy
-gensim==4.3.0
+gensim
 numpy
 pandas
 matplotlib
