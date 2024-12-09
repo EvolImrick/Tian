@@ -19,7 +19,6 @@ episode_id = st.text_input("Enter Spotify Episode ID:", value="")
 
 # 定义主要函数
 def process_new_sample(episode_id):
-    nltk.download('stopwords')
     try:
         # 设置客户端凭证（client_id 和 client_secret）
         client_id = "a728a5852093450cacb79d3106c5002f"
