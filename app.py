@@ -10,6 +10,7 @@ from joblib import load
 from nltk.corpus import stopwords
 from textblob import TextBlob
 import re
+import nltk
 
 nltk.download('stopwords') 
 
